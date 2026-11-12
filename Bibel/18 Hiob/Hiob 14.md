@@ -1,0 +1,47 @@
+---
+bibel-kapitel: "Hiob 14"
+bibel-schema: 1
+---
+`!b:Hiob 14,1` ^v1
+
+`!b:Hiob 14,2` ^v2
+
+`!b:Hiob 14,3` ^v3
+
+`!b:Hiob 14,4` ^v4
+
+`!b:Hiob 14,5` ^v5
+
+`!b:Hiob 14,6` ^v6
+
+`!b:Hiob 14,7` ^v7
+
+`!b:Hiob 14,8` ^v8
+
+`!b:Hiob 14,9` ^v9
+
+`!b:Hiob 14,10` ^v10
+
+`!b:Hiob 14,11` ^v11
+
+`!b:Hiob 14,12` ^v12
+
+`!b:Hiob 14,13` ^v13
+
+`!b:Hiob 14,14` ^v14
+
+`!b:Hiob 14,15` ^v15
+
+`!b:Hiob 14,16` ^v16
+
+`!b:Hiob 14,17` ^v17
+
+`!b:Hiob 14,18` ^v18
+
+`!b:Hiob 14,19` ^v19
+
+`!b:Hiob 14,20` ^v20
+
+`!b:Hiob 14,21` ^v21
+
+`!b:Hiob 14,22` ^v22

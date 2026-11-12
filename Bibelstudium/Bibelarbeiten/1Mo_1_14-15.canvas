@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d78df76d30536207","type":"text","x":0,"y":0,"width":400,"height":60,"text":"# `b:1Mo 1,14-15`"},
+		{"id":"92efd059c701df10","type":"text","x":0,"y":90,"width":400,"height":92,"text":"`!b:1Mo 1,14 knapp`"},
+		{"id":"148987eef70828d2","type":"text","x":0,"y":212,"width":400,"height":70,"text":"`!b:1Mo 1,15 knapp`"}
+	],
+	"edges":[]
+}

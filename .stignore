@@ -1,0 +1,16 @@
+// Syncthing: PluginDev vault -> Android tablet. First matching pattern wins.
+
+// Plugin: only the release files. src, node_modules, docs and data (imported texts) stay local.
+!/.obsidian/plugins/bible-annotating/main.js
+!/.obsidian/plugins/bible-annotating/manifest.json
+!/.obsidian/plugins/bible-annotating/styles.css
+
+!/.obsidian/plugins/obsidian-git/main.js
+!/.obsidian/plugins/obsidian-git/manifest.json
+!/.obsidian/plugins/obsidian-git/styles.css
+
+// Obsidian settings, workspace and other plugins (Hot Reload is desktop only) stay per device.
+/.obsidian
+
+// Obsidian trash
+/.trash

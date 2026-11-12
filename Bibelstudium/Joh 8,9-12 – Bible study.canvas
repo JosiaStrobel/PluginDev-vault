@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ef302e67557a4d9a","type":"text","x":0,"y":0,"width":400,"height":60,"text":"# Joh 8,9-12"},
+		{"id":"613528bba82ae69c","type":"text","x":0,"y":90,"width":400,"height":114,"text":"`!b:Joh 8,9 gemeinsam`"},
+		{"id":"948192ea53a53c14","type":"text","x":0,"y":234,"width":400,"height":114,"text":"`!b:Joh 8,10`"},
+		{"id":"ca504c517bef4d23","type":"text","x":0,"y":378,"width":400,"height":92,"text":"`!b:Joh 8,11`"},
+		{"id":"a2a9ab864ff2bd62","type":"text","x":0,"y":500,"width":400,"height":114,"text":"`!b:Joh 8,12`"}
+	],
+	"edges":[]
+}
