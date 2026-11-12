@@ -9,6 +9,9 @@
 !/.obsidian/plugins/obsidian-git/manifest.json
 !/.obsidian/plugins/obsidian-git/styles.css
 
+// Git repository: each device keeps its own (sync via git remote, not Syncthing).
+/.git
+
 // Obsidian settings, workspace and other plugins (Hot Reload is desktop only) stay per device.
 /.obsidian
 

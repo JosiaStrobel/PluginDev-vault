@@ -8,5 +8,6 @@
 
 # Sync tool artifacts (Syncthing, Nextcloud)
 .stfolder/
+.stversions/
 .sync_*.db
 .nextcloudsync.log
