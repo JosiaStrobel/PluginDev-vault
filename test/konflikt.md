@@ -1,4 +1,3 @@
 # Konflikt-Test
 
-Zeile: Tablet
-Zeile: PC
+Zeile: Tablet 2
